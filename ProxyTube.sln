@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyTube.Web", "ProxyTube.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyTube.IntegrationTests", "ProxyTube.IntegrationTests\ProxyTube.IntegrationTests.csproj", "{FC6135E4-4ABB-4FBC-943B-8F8104482F37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyTube.Tests", "ProxyTube.Tests\ProxyTube.Tests.csproj", "{FD5AEB0D-510B-445E-A776-EC452AA7DF13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{FC6135E4-4ABB-4FBC-943B-8F8104482F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC6135E4-4ABB-4FBC-943B-8F8104482F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC6135E4-4ABB-4FBC-943B-8F8104482F37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5AEB0D-510B-445E-A776-EC452AA7DF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5AEB0D-510B-445E-A776-EC452AA7DF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5AEB0D-510B-445E-A776-EC452AA7DF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5AEB0D-510B-445E-A776-EC452AA7DF13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
